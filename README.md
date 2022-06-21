@@ -95,6 +95,6 @@ or in any of the following images.
 
 <p>If you liked what you saw and want to contact me for a job offer, to help you create the page of your dreams or simply to compare code, you can find me following the next links.
 </p>
-<a href=”mailto:charlyacevedo@hotmail.com?subject=Quiero%20contactarte%20para%20un%20proyecto%20de%20pagina%20web&body=Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20como%20puedes%20crearme%20un%20sitio%20web%20personalizado” target=”_blank”><img style="width: 50px;" src="./Imagenes/Email-Logo.png"></a>
-  <a href=”https://www.linkedin.com/in/carlos-acevedo-full-stack-dev/” target=”_blank”><img style="width: 50px;" src="./Imagenes/logolinkedin.jpg"></a>
+<a href="mailto:charlyacevedo@hotmail.com?subject=Hola quiero contactarte para un proyecto sobre una pagina web body=Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20como%20puedes%20crearme%20un%20sitio%20web%20personalizado" target="_blank"><img style="width: 50px;" src="./Imagenes/Email-Logo.png"></a>
+  <a href="https://www.linkedin.com/in/carlos-acevedo-full-stack-dev/" target="_blank"><img style="width: 50px;" src="./Imagenes/logolinkedin.jpg"></a>
   <a href="https://wa.me/+529992705023/?text=Hola quisiera mas informacion por que quiero contratar tus servicios como desarrollador web" target="_blank"><img  style="width: 50px;" src="./Imagenes/pngtree-whatsapp-icon-logo-png-image_771436.jpg"></a>
