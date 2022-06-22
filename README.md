@@ -53,21 +53,21 @@ or in any of the following images.
 </p>
 
 <p>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/landing.png"></a>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/registro.png"></a>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/login.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/landing.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/registro.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/login.png"></a>
 </p>
 <p>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/user-home-gyms cards.png"></a>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/user-formulario-edicion-perfil.png"></a>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/user-corrito-compras.png"></a>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/user-corrito-compras.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/user-home-gyms cards.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/user-formulario-edicion-perfil.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/user-corrito-compras.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/user-corrito-compras.png"></a>
 </p>
 <p>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/partner-home.png"></a>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/partner-gyms.pngg"></a>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/partner-plans.png"></a>
-  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/partner-gyms-edicion.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/partner-home.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/partner-gyms.pngg"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/partner-plans.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/partner-gyms-edicion.png"></a>
 </p>
 
 
@@ -86,8 +86,8 @@ or in any of the following images.
 
 <p>
 <a href="https://cuisines-app-demo.vercel.app" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/cuisine-app/landing.png"></a>
-<a href="https://cuisines-app-demo.vercel.app" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/cuisine-app/home.png"></a>
-<a href="https://cuisines-app-demo.vercel.app" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/cuisine-app/formulario de creacion de recetas.png"></a>
+<a href="https://cuisines-app-demo.vercel.app" target="_blank" rel="noopener noreferrer"><img style="width: 40%; margin-right: 2%" src="./Imagenes/cuisine-app/home.png"></a>
+<a href="https://cuisines-app-demo.vercel.app" target="_blank" rel="noopener noreferrer"><img style="width: 40%; margin-right: 2%" src="./Imagenes/cuisine-app/formulario de creacion de recetas.png"></a>
 </p>
 
 
