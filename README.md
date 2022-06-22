@@ -48,26 +48,26 @@ Back End: JavaScript ["Express", "Sequelize", "NodeJs", "PostgreSQL", "MongoDB",
 
 For this project I worked both in the Back end and in the front part, developing both half of the back routes and the components used for graphics and maps in the front; it was also my job to build the template used using express for the server and react redux for the app.
 
-For the deploy of this app you can click <a href=”https://fittnet-g11.vercel.app/” target=”_blank”>here</a></br>
+For the deploy of this app you can click <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer">here</a></br>
 or in any of the following images.
 </p>
 
 <p>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/landing.png"></a>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/registro.png"></a>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/login.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/landing.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/registro.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/login.png"></a>
 </p>
 <p>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/user-home-gyms cards.png"></a>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/user-formulario-edicion-perfil.png"></a>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/user-corrito-compras.png"></a>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/user-corrito-compras.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/user-home-gyms cards.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/user-formulario-edicion-perfil.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/user-corrito-compras.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/user-corrito-compras.png"></a>
 </p>
 <p>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/partner-home.png"></a>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/partner-gyms.pngg"></a>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/partner-plans.png"></a>
-  <a href=”https://fittnet-g11.vercel.app/” target=”_blank”><img src="./Imagenes/fittnet/partner-gyms-edicion.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/partner-home.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/partner-gyms.pngg"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/partner-plans.png"></a>
+  <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/fittnet/partner-gyms-edicion.png"></a>
 </p>
 
 
@@ -80,14 +80,14 @@ or in any of the following images.
 🎖️FrontEnd: "ReactJs", "Redux", "CSS3".
 🎖️BackEnd and Data Base: "Express", "NodeJs", "Sequelize", "PostgreSQL" 
 
-For the deploy of this app you can click <a href=”https://cuisines-app-demo.vercel.app/” target=”_blank”>here</a></br>
+For the deploy of this app you can click <a href="https://cuisines-app-demo.vercel.app/" target="_blank">here</a></br>
 or in any of the following images.
 </p>
 
 <p>
-  <a href=”https://cuisines-app-demo.vercel.app/” target=”_blank”><img src="./Imagenes/cuisine-app/landing.png"></a>
-  <a href=”https://cuisines-app-demo.vercel.app/” target=”_blank”><img src="./Imagenes/cuisine-app/home.png"></a>
-  <a href=”https://cuisines-app-demo.vercel.app/” target=”_blank”><img src="./Imagenes/cuisine-app/formulario de creacion de recetas.png"></a>
+  <a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/landing.png"></a>
+  <a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/home.png"></a>
+  <a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/formulario de creacion de recetas.png"></a>
 </p>
 
 
@@ -95,6 +95,6 @@ or in any of the following images.
 
 <p>If you liked what you saw and want to contact me for a job offer, to help you create the page of your dreams or simply to compare code, you can find me following the next links.
 </p>
-<a href="mailto:charlyacevedo@hotmail.com?subject=Hola quiero contactarte para un proyecto sobre una pagina web body=Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20como%20puedes%20crearme%20un%20sitio%20web%20personalizado" target="_blank"><img style="width: 50px;" src="./Imagenes/Email-Logo.png"></a>
-  <a href="https://www.linkedin.com/in/carlos-acevedo-full-stack-dev/" target="_blank"><img style="width: 50px;" src="./Imagenes/logolinkedin.jpg"></a>
-  <a href="https://wa.me/+529992705023/?text=Hola quisiera mas informacion por que quiero contratar tus servicios como desarrollador web" target="_blank"><img  style="width: 50px;" src="./Imagenes/pngtree-whatsapp-icon-logo-png-image_771436.jpg"></a>
+<a href="mailto:charlyacevedo@hotmail.com?subject=Hola quiero contactarte para un proyecto sobre una pagina web body=Quisiera%20m%C3%A1s%20informaci%C3%B3n%20sobre%20como%20puedes%20crearme%20un%20sitio%20web%20personalizado" target="_blank" rel="noopener noreferrer"><img style="width: 50px;" src="./Imagenes/Email-Logo.png"></a>
+  <a href="https://www.linkedin.com/in/carlos-acevedo-full-stack-dev/" target="_blank" rel="noopener noreferrer"><img style="width: 50px;" src="./Imagenes/logolinkedin.jpg"></a>
+  <a href="https://wa.me/+529992705023/?text=Hola quisiera mas informacion por que quiero contratar tus servicios como desarrollador web" target="_blank" rel="noopener noreferrer"><img  style="width: 50px;" src="./Imagenes/pngtree-whatsapp-icon-logo-png-image_771436.jpg"></a>
