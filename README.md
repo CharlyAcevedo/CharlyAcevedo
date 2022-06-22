@@ -56,14 +56,10 @@ or in any of the following images.
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/landing.png"></a>
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/registro.png"></a>
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/login.png"></a>
-</p>
-<p>
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/user-home-gyms cards.png"></a>
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/user-formulario-edicion-perfil.png"></a>
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/user-corrito-compras.png"></a>
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/user-corrito-compras.png"></a>
-</p>
-<p>
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/partner-home.png"></a>
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/partner-gyms.pngg"></a>
   <a href="https://fittnet-g11.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/fittnet/partner-plans.png"></a>
