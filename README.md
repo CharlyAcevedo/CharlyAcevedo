@@ -25,7 +25,7 @@ Front End: JavaScript ["ReactJs", "Redux", "Leaflet", "react-chartjs-2", "sweeta
 Back End: JavaScript ["Express", "Sequelize", "NodeJs", "PostgreSQL", "MongoDB", "Mongoose", "Passport"]
 </p>
 <p align='left'>
-    <img src='./Imagenes/teclado-mundo-codigo.jpg' />
+    <img style="width: 60%;" src='./Imagenes/teclado-mundo-codigo.jpg' />
 </p>
 
 
