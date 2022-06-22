@@ -80,14 +80,14 @@ or in any of the following images.
 🎖️FrontEnd: "ReactJs", "Redux", "CSS3".
 🎖️BackEnd and Data Base: "Express", "NodeJs", "Sequelize", "PostgreSQL" 
 
-For the deploy of this app you can click <a href="https://cuisines-app-demo.vercel.app/" target="_blank">here</a></br>
+For the deploy of this app you can click <a href="https://cuisines-app-demo.vercel.app" target="_blank" rel="noopener noreferrer">here</a></br>
 or in any of the following images.
 </p>
 
 <p>
-<a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/landing.png"></a>
-<a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/home.png"></a>
-<a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/cuisine-app/formulario de creacion de recetas.png"></a>
+<a href="https://cuisines-app-demo.vercel.app" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/cuisine-app/landing.png"></a>
+<a href="https://cuisines-app-demo.vercel.app" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/cuisine-app/home.png"></a>
+<a href="https://cuisines-app-demo.vercel.app" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/cuisine-app/formulario de creacion de recetas.png"></a>
 </p>
 
 
