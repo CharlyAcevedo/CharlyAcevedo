@@ -85,9 +85,9 @@ or in any of the following images.
 </p>
 
 <p>
-  <a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/landing.png"></a>
-  <a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/home.png"></a>
-  <a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/formulario de creacion de recetas.png"></a>
+<a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/landing.png"></a>
+<a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="./Imagenes/cuisine-app/home.png"></a>
+<a href="https://cuisines-app-demo.vercel.app/" target="_blank" rel="noopener noreferrer"><img style="width: 40%;" src="./Imagenes/cuisine-app/formulario de creacion de recetas.png"></a>
 </p>
 
 
